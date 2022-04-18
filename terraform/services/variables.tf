@@ -1,3 +1,4 @@
+variable "aws_account" {}
 variable "project" {
   default = "devops"
 }

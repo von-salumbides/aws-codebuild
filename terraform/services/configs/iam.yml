@@ -1,0 +1,4 @@
+trust_services:
+  - codebuild
+  - ecs
+  - ec2

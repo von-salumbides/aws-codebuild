@@ -16,7 +16,7 @@ provider "aws" {
       COST_CENTER = upper(var.cost_center)
       ENVIRONMENT = upper(var.env)
       Terraform   = true
-      owner       = upper(var.owner)
+      Owner       = upper(var.owner)
     }
   }
 }
